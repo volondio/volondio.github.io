@@ -5,6 +5,30 @@
 }
 
 header{
-    width: 200px;
+    height: 160px;
     background: red;
+}
+header img{
+    width:100px;
+
+}
+
+section{
+    width: 650px;
+    height: 550px;
+    float: left;
+    background: yellow;
+}
+
+aside{
+    width: 310px;
+    height: 550px;
+    float: right;
+    background: green;
+}
+
+footer{
+    height: 60px;
+    clear: both;
+    background: brown;
 }
