@@ -1,0 +1,10 @@
+#firstPage{
+    width: 960px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+header{
+    width: 200px;
+    background: red;
+}
