@@ -14,10 +14,13 @@ a{
 p{
     font-family: Georgia, serif;
 }
+body{
+    background-color: #edf8f2;
+}
 
 header{
     height: 20%;
-    background: white;
+    
     text-align: center
 }
 header img{
@@ -40,12 +43,16 @@ section{
     width: 50%;
     float: left;
     text-align: justify;
+   
     margin-left: 5%;
     margin-right: 5%;
 
 }
 section img{
     width: 10%;
+}
+.article{
+    margin-bottom: 3%;
 }
 
 aside{
@@ -58,6 +65,9 @@ aside{
 }
 aside img{
     width: 60%;
+}
+.sidepic{
+    margin-bottom: 5%;
 }
 
 footer{
