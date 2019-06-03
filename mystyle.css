@@ -54,6 +54,17 @@ section img{
 .article{
     margin-bottom: 3%;
 }
+.gameList{
+    margin-top: 10%;
+    margin-left: 50%;
+    
+}
+.equip{
+    margin-top: 10%;
+}
+.equip img{
+width: 20%;
+}
 
 aside{
     width: 30%;
@@ -69,9 +80,24 @@ aside img{
 .sidepic{
     margin-bottom: 5%;
 }
+.heimisch{
+    width:60%;
+   
+}
+iframe{
+ height: 400px;
+margin-top: -30%;
+margin-bottom: 5%;
+}
 
 footer{
     height: 60px;
     clear: both;
-    background: brown;
+    background: #edf8f2;
+}
+ul{
+    margin-bottom:1%;
+}
+li{
+    margin-top: 1%;
 }
